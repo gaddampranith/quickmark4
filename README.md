@@ -33,3 +33,5 @@ Most of the content have been extracted from www.wikipedia.org for the purpose o
 Code snippets have been taken from several websites where the license was MIT License which was free to use as necessary.
 
 The biggest problem I faced was to use the Twitter Cards. Mr. M has helped me to figure this and I finally got the Twitter Cards for my page.
+
+Author: Pranith Gaddam
